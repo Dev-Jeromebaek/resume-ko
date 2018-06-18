@@ -9325,7 +9325,7 @@ module.exports = {
     }, {
       'date': '2018.06',
       'title': 'Google Cloud OnBoard - Seoul',
-      'contents': ['Google Cloud [education]', '- 세션별 기술 시연', '- Google App Engine, Datastore, Storage, Container Engine, Computer Engine 및 네트워크, 빅데이터, 기계 학습', '- 기술교육.']
+      'contents': ['Google Cloud [education]', '- 세션별 기술 시연', '- Google App Engine, Datastore, Storage, Container Engine, Computer Engine 및 네트워크, 빅데이터, 기계 학습', '- 기술교육.', '(수료증 보유)']
     }, {
       'date': '2018.06',
       'title': 'Designer & Developer',
@@ -9341,11 +9341,11 @@ module.exports = {
     }, {
       'date': '2017.07 - 2017.08',
       'title': 'Code-Night 2nd',
-      'contents': ['Opentutorials [education]', '- 웹 어플리케이션 개발 기초 및 이슈사항 등을 포함한 웹 개발의 전반적인 내용 스터디', '- Google, YouTube, TPay, Opentutorials 개발자가 함께 지원하여 진행', '-2기 졸업.']
+      'contents': ['Opentutorials [education]', '- 웹 어플리케이션 개발 기초 및 이슈사항 등을 포함한 웹 개발의 전반적인 내용 스터디', '- Google, YouTube, TPay, Opentutorials 개발자가 함께 지원하여 진행', '-2기 졸업.', '(수료증 보유)']
     }, {
       'date': '2015.10 - 2017.03',
       'title': 'Ready for Developer',
-      'contents': ['IT Bank [education]', '- Java, JSP, Spring, Network, Linux, Window Server를 단과 교육 과정을 통해 수료하였으며, 마지막으로 4개월의 웹 개발 과정 취업반 수료.']
+      'contents': ['IT Bank [education]', '- Java, JSP, Spring, Network, Linux, Window Server를 단과 교육 과정을 통해 수료하였으며, 마지막으로 4개월의 웹 개발 과정 취업반 수료.', '(수료증 보유)']
     }],
 
     '학력 사항': [
