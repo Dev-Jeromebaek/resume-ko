@@ -9320,10 +9320,6 @@ module.exports = {
 
     '개인 활동': [{
       'date': '2018.06',
-      'title': 'Good Company Series 01. Kakao Bank',
-      'contents': ['Good Company X Kakao Bank [seminar]', '- Intro. 카카오뱅크 Booth Zone', '- 카카오뱅크에서 개발자로 일한다는 것', '- 카카오뱅크에서 기획자로 일한다는 것', '- 어떤 사람들이 어떻게 일하고 있는가?']
-    }, {
-      'date': '2018.06',
       'title': 'Google Cloud OnBoard - Seoul',
       'contents': ['Google Cloud [education]', '- 세션별 기술 시연', '- Google App Engine, Datastore, Storage, Container Engine, Computer Engine 및 네트워크, 빅데이터, 기계 학습', '- 기술교육.', '(수료증 보유)']
     }, {
