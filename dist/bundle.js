@@ -9288,23 +9288,23 @@ module.exports = {
       'contents': ['']
     }, {
       'date': 'Language',
-      'title': 'JAVA (3) / JSP(3) / HTML5 (3) / CSS3 (3) / JavaScript (2) / TypeScript (1) / PHP (2) ',
+      'title': 'JavaScript (3) / HTML5 (3) / CSS3 (3) / JAVA (3) / JSP(3) / TypeScript (1) / PHP (2) ',
       'contents': ['']
     }, {
       'date': 'Framework',
-      'title': 'Spring (3) / Bootstrap (3) / React.js (1) / Codeigniter (2) / _Template (2)',
+      'title': 'Spring (2) / Bootstrap (2) / Codeigniter (2) / _Template (2)',
       'contents': ['']
     }, {
       'date': 'Library',
-      'title': 'JSTL (3) / jQuery (2)',
+      'title': ' ReactJS (2) / JSTL (3) / jQuery (2)',
       'contents': ['']
     }, {
       'date': 'Dependency Manager',
-      'title': 'npm (1), Maven(2)',
+      'title': 'npm (2) / WebPack (2) / BaBel (2) / Maven(2)',
       'contents': ['']
     }, {
       'date': 'Data Base',
-      'title': 'Oracle (3), Mysql (3), OrientDB (1)',
+      'title': 'Mysql (3) / Oracle (2) / OrientDB (1)',
       'contents': ['']
     }],
 
@@ -9319,6 +9319,10 @@ module.exports = {
     // }],
 
     '개인 활동': [{
+      'date': '2018.06',
+      'title': '2018 오픈소스 개발자 이야기',
+      'contents': ['Microsoft [meetup]', '- 세션별 기술 시연', '- Google App Engine, Datastore, Storage, Container Engine, Computer Engine 및 네트워크, 빅데이터, 기계 학습', '- 기술교육.', '(수료증 보유)']
+    }, {
       'date': '2018.06',
       'title': 'Google Cloud OnBoard - Seoul',
       'contents': ['Google Cloud [education]', '- 세션별 기술 시연', '- Google App Engine, Datastore, Storage, Container Engine, Computer Engine 및 네트워크, 빅데이터, 기계 학습', '- 기술교육.', '(수료증 보유)']
@@ -9360,7 +9364,15 @@ module.exports = {
   summary: {
     '경력 요약': [
       {
-        'date': ['2017.05', '현재'],
+        'date': ['2018.07', '현재'],
+        'title': 'TMON (주)티몬',
+        'contents': [
+          '주 - Front End 개발',
+          '서브 - Back End JSP/SPRING'
+        ]
+      },
+      {
+        'date': ['2017.05', '2018.06'],
         'title': 'Coreriver (주)코아리버',
         'contents': [
           '주 - Web 개발',
@@ -9369,7 +9381,25 @@ module.exports = {
       }
     ]
   },
+
+  
   detailContents: {
+    'TMON (티몬)': {
+      'date': '2018.07 - 2018.08',
+      'info': '사내 시스템 대시보드 개발',
+      'service': ['Project<br /> - <a href="http://jeromebaek-portfolio-en.ml/portfolio/proj04_tmon_dashboard.html">01. TMON DashBoard <a/>'],
+      'project': {
+        'project': [{
+          'date': '2018.07 - 2018.08',
+          'title': 'TMON DashBoard',
+          'contents': ['사내 시스템 대시보드 개발', `
+              <br />
+              <b>- [프로젝트 작업]</b> : 전체적인 제안, 기획, 설계 / Framework설계 / DB설계 / 프로젝트 전체 통합 / 팀 일정관리<br /><br />
+              <b>- [메인 작업]</b> : 스크롤페이징 / 롤링카운터 / 상단 메뉴 제작 / 상품 메뉴 제작 / 인기상품 top10 / Other's deal 관리 / 기업회원 개인페이지 / 관리자 페이지 / 일반회원 접속여부 확인 / 등급관리 기능 / 테이블 개수 제한 더보기-접어두기 페이징(스크롤) / 일반회원 통계 관리 페이지 구현 / 기업회원 통계 관리 페이지 구현 / 인기기업, 판매 딜 많은 기업, 위험 기업 순위 적용 / 등급에 따른 할인 및 매출 계산 구현 / 구매고객 리스트 / 딜 수량 수정기능 / 딜 삭제 기능 / 기업정보 수정 기능 / 기업정보 삭제 기능 / 매출 등급 / 기업 등급상태 기능 제작.<br /><br />
+              `, '- Spring 첫 프로젝트 제작', '- 기여도 : 70%', '- stack : JAVA, JSP, SPring 3.x, Ajax, jQuery, MVC2, Maven, MyBatis, Oracle 11g, Apache Tomcat 8.0, individual Module<br />']
+        }]
+      }
+    },
     'Coreriver (코아리버)': {
       'date': '2017.05 - 2018.06',
       'info': '코아리버는 IoT, 영상처리, 쇼핑몰 관련 웹/앱 개발의 선도적인 기업입니다. 안드로이드, iOS, 하이브리드 웹/앱 개발 및 디자인까지 토탈 솔루션을 제공합니다.',
