@@ -9954,7 +9954,7 @@ type StyleObjectPart = {
                 '- Elastic에서 Remote로 일하기 (Elastic/김종민님)',
                 '- 오픈소스 생태계 일원으로서의 개발자 (BlockchainOS SRE/변정훈님)',
                 '- 해외 오픈소스 컨퍼런스 발표와 참여 (KossLab/송태웅님)',
-                '- 파이썬, 파이콘, 파이썬소프트웨어재단 (파이썬 소프트웨어 재단/김영근님)',
+                '- <a href="https://www.slideshare.net/scarinet/python-pycon-and-the-psf-103838502">파이썬, 파이콘, 파이썬소프트웨어재단 (파이썬 소프트웨어 재단/김영근님)</a>',
                 '- 아파치 제플린, 프로젝트 시작부터 아파치 탑레벨 프로젝트가 되기까지(ZELP/이문수님)'
               ]
             },
