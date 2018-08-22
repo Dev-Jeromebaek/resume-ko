@@ -9950,12 +9950,12 @@ type StyleObjectPart = {
               contents: [
                 'Microsoft [meetup]',
                 '- 오픈소스개발자로서의 경험담 공유',
-                '- 오픈소스 저작권(Lablup Inc./신정규님)',
-                '- Elastic에서 Remote로 일하기 (Elastic/김종민님)',
-                '- 오픈소스 생태계 일원으로서의 개발자 (BlockchainOS SRE/변정훈님)',
-                '- 해외 오픈소스 컨퍼런스 발표와 참여 (KossLab/송태웅님)',
-                '- <a href="https://www.slideshare.net/scarinet/python-pycon-and-the-psf-103838502">파이썬, 파이콘, 파이썬소프트웨어재단 (파이썬 소프트웨어 재단/김영근님)</a>',
-                '- 아파치 제플린, 프로젝트 시작부터 아파치 탑레벨 프로젝트가 되기까지(ZELP/이문수님)'
+                '<a href="https://www.slideshare.net/inureyes/ss-104038275" target="_blank">- 회색지대: 이상과 현실 - 오픈소스 저작권(Lablup Inc./신정규님)</a>',
+                '<a href="./files/jongmin-kim-OSS-Dev-Forum.pdf" target="_blank">- Elastic에서 Remote로 일하기 (Elastic/김종민님)</a>',
+                '<a href="./files/opensource-seminar-20180630.pdf" target="_blank">- 오픈소스 생태계 일원으로서의 개발자 (BlockchainOS SRE/변정훈님)</a>',
+                '<a href="https://docs.google.com/presentation/d/10Ab4gAGo7n3ip7q6PbXANT2W_vKabvUUnVUODqR0WN4/mobilepresent?slide=id.p" target="_blank">- 해외 오픈소스 컨퍼런스 발표와 참여 (KossLab/송태웅님)</a>',
+                '<a href="https://www.slideshare.net/scarinet/python-pycon-and-the-psf-103838502" target="_blank">- 파이썬, 파이콘, 파이썬소프트웨어재단 (파이썬 소프트웨어 재단/김영근님)</a>',
+                '<a href="./files/이문수_발표자료.pdf" target="_blank">- 아파치 제플린, 프로젝트 시작부터 아파치 탑레벨 프로젝트가 되기까지(ZELP/이문수님)</a>'
               ]
             },
             {
