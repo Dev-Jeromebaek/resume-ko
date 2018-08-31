@@ -10035,7 +10035,7 @@ type StyleObjectPart = {
             {
               date: ['2018.07', '2018.08'],
               title: 'TMON (주)티몬 - 인턴',
-              contents: ['주 - Front End 개발', '서브 - Back End JSP/SPRING']
+              contents: ['주 - Front End 개발 (React)', '서브 - Back End 개발 (JSP/SPRING)']
             },
             {
               date: ['2017.05', '2018.06'],
