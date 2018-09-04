@@ -5,16 +5,16 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack",
-    "start": "webpack-dev-server --hot --host 0.0.0.0",
+    "start": "webpack-dev-server --hot --open --host 0.0.0.0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/KimWooHyun/resume.git",
-  "author": "kimwoohyun",
+  "repository": "git+https://github.com/Dev-JeromeBaek/jeromebaek-resume-ko.git",
+  "author": "Dev-JeromeBaek <superior051@icloud.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KimWooHyun/resume/issues"
+    "url": "https://github.com/Dev-JeromeBaek/jeromebaek-resume-ko/issues"
   },
-  "homepage": "https://github.com/KimWooHyun/resume#readme",
+  "homepage": "https://github.com/Dev-JeromeBaek/jeromebaek-resume-ko#readme",
   "dependencies": {
     "less": "^2.7.3",
     "less-loader": "^4.0.5",
