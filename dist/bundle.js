@@ -9268,9 +9268,9 @@ module.exports = {
   introduction: `
     깨끗하고 단순하며 실용적인 웹 사이트 만들기를 추구하고 좋아하는 개발자 백승엽 입니다.<br />
     저는 반응형 웹, 사용자 중심의 웹, 그리고 모두를 단번에 집중 시킬 수 있는 UI와 함께 매력적이고 사용자 중심적인 웹 사이트 제작에 관심이 많으며 저의 주사용 언어는 JAVA, JSP, JavaScript HTML, CSS, 이며 그중 가장 자신있는 개발 언어는 'JAVA'와 ‘JavaScript’ 입니다.<br /><br />
-    현재까지 'JAVA', 'JSP', 'SPRING'까지,'Back-end'적인 Java 기반의 웹 기술을 많이 활용해 왔고, 최근에는 'JavaScript', 'React'등 'Front-end'에 중점을 두고 여러가지 개인 프로젝트도 만들어보고 크로스브라우징, 버블링 제어 등을 통해 빠르고 효율적인 웹을 만들기 위해 노력하며 다양한 사용자와 소통할 수 있는, 웹사이트를 개발할 수 있도록 노력하고 있습니다.<br />
-    회사를통해 웹페이지 뿐만 아니라 Hybrid App을 제작 함으로써 반응형 처리 및 다양한 이슈사항들에 대하여 많이 고민하고 배우며 적용시키고 있습니다.<br /><br />
-    제가 제작한 페이지를 접근하는 모든 디바이스별 이슈를 확인하여 정리하고, Google Map, Distance Matrix, DatePicker, Crop 등 다양한 Api를 Custom하여 적용시킴으로써 단순히 가져다 쓰는 것만이 아닌 입맛에 맞게 Custom하는 능력 또한 기르고 있고, 디자이너가 없는 상황에 개발을 위해 PhotoShop을 조금은 다룰 수 있도록 능력을 키우고 있습니다.<br />
+    현재까지 'JAVA', 'JSP', 'SPRING'까지,'Back-end'적인 Java 기반의 웹 기술을 많이 활용해 왔고, 최근에는 'JavaScript', 'React'등 'Front-end'에 중점을 두고 여러가지 개인 프로젝트도 만들어보고 크로스브라우징, 버블링 제어 등을 통해 빠르고 효율적인 웹을 만들기 위해 노력하고있습니다.<br />
+    이러한 노력들을 토대로 다양한 사용자와 소통할 수 있는, 웹사이트를 개발할 수 있도록 노력하고 있고, 웹페이지 뿐만 아니라 업무적으로 Hybrid App 프로젝트 또한 제작해 보면서 반응형 처리 및 다양한 이슈사항들에 대하여 많이 고민하고 배우며 적용시키고 있습니다.<br /><br />
+    그리고, 프로젝트와는 별개로 제가 제작한 페이지를 접근하는 모든 디바이스별 이슈를 확인하여 정리하고, Google Map, Distance Matrix, DatePicker, Crop 등 다양한 Api를 Custom하여 적용시킴으로써 단순히 가져다 쓰는 것만이 아닌 입맛에 맞게 Custom하는 능력 또한 기르고 있고, 디자이너가 없는 상황에 개발을 위해 PhotoShop을 조금은 다룰 수 있도록 능력을 키우고 있습니다.<br />
     그 외 각종 커뮤니티를 통해 icon, template, UI kit, Pattern을 수집하기도 하고, blog, github, pinterest 를 통해 다양한 개발 지식과 정보를 공유, 관리하고있습니다.<br />
     `,
   contents: {
@@ -9397,7 +9397,7 @@ module.exports = {
           contents: ['전세계 모든 상점의 실시간 영업정보를 제공받고 확인할 수 있는 앱', `
               <br />
               <b>- [프로젝트 작업]</b> : 전체의 지도(교통, 길찾기) / 메일전송 모듈제작 / 문자 전송모듈 제작 / GoogleMap ( DistanceMatrix, geocoding, marker, cluster ) / bootstrap / swiper / jQuery(range, eventDrag, touchSlider) / excel up-down / TMAP / MAPSME / SYGIC 등 api를 custom<br /><br />
-              <b>- [메인 작업]</b> : (Tmap, Google, MAPSME, SCGIC)의 navigation 연동 / 길 찾기 분기처리 / 거리-시간 계산 처리 / 일정 계산 / 관리자 Excel(up-down) 구현 / GPS(내 위치 기반 정보) 확인 / 데이터 연동.<br /><br />
+              <b>- [메인 작업]</b> : (Tmap, Google, MAPSME, SYGIC)의 navigation 연동 / 길 찾기 분기처리 / 거리-시간 계산 처리 / 일정 계산 / 관리자 Excel(up-down) 구현 / GPS(내 위치 기반 정보) 확인 / 데이터 연동.<br /><br />
               `, '- Cordova를 이용한 Hybrid App개발', '- 관리자 웹 페이지 개발', '- 기여도 : 50%', '- stack : PHP, Codeigniter, _Template, HTML5, CSS3, JavaScript, jQuery, Ajax, Apache HTTP server v2.4, MySQL, BootStrap, GoogleMap, Tmap, MAPSME, SYGIC<br />']
         }, {
           date: '2017.05 - 2017.07',
