@@ -189,7 +189,7 @@ module.exports = {
               <b>- [프로젝트 작업]</b> : 전체적인 제안, 기획, 설계 / Framework설계 / 프로젝트 전체 통합 / 일정관리<br /><br />
               <b>- [메인 작업]</b> : React로 SPA, Admin API List 연결 CRUD, DashBoard Service Page (Component Set, Routing, Chart, CRUD, Exception, Set LifeCycle, LocalStorage Management, Responsive Web, ...), git(Code review)<br /><br />
               `,
-              '- 사내 관리를 위한 관리자페이지 및 대시보드 개발',
+              '- 사내 시스템 관리를 위한 관리자페이지 및 대시보드 개발',
               '- 기여도 : 40%',
               '- stack : JAVA, JSP, Spring 4.x, React, Babel, Webpack, Chartist, Axios, ReactStrap, React-Grid-Layout, React-Context-API, Git, Bitbucket, Confluence<br />'
             ]
