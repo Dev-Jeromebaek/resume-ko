@@ -9280,19 +9280,23 @@ module.exports = {
       contents: [""]
     }, {
       date: "Language",
-      title: "JavaScript (3) / HTML5 (3) / CSS3 (3) / JAVA (3) / JSP(3) / TypeScript (1) / PHP (2) ",
+      title: "JavaScript (3) / JAVA (3) / JSP(3) / TypeScript (1) / PHP (2) ",
       contents: [""]
     }, {
       date: "Framework",
-      title: "Spring (2) / Bootstrap (2) / Codeigniter (2) / _Template (2)",
+      title: "Spring (2) / React (2) / Codeigniter (2) / _Template (2)",
       contents: [""]
     }, {
       date: "Library",
-      title: " React (2) / JSTL (3) / jQuery (2)",
+      title: "Redux (1) / MobX(1) / JSTL (3) / jQuery (2)",
+      contents: [""]
+    }, {
+      date: "Markup",
+      title: "HTML5 (3) / CSS3 (3) / Sass(1) / Bootstrap (2) / Meterial-design (1)",
       contents: [""]
     }, {
       date: "Dependency Manager",
-      title: "npm (2) / WebPack (2) / BaBel (2) / Maven(2)",
+      title: "npm (2) / yarn (2) / WebPack (2) / BaBel (2) / Maven(2)",
       contents: [""]
     }, {
       date: "Data Base",
@@ -9300,17 +9304,25 @@ module.exports = {
       contents: [""]
     }],
 
-    // '개인 프로젝트': [{
-    //   'date': '2017.07 - 현재',
-    //   'title': 'vue-lunar-calendar',
-    //   'contents': ['- Vue.js component library', '- <a href="https://github.com/KimWooHyun/vue-lunar-calendar">https://github.com/KimWooHyun/vue-lunar-calendar</a>', '- 한국 음력 달력 라이브러리', '- opensource', '- 총 7명의 contributors, 6개의 언어']
-    // }, {
-    //   'date': '2017.08',
-    //   'title': 'WHLunarCalendar',
-    //   'contents': ['- Swift library', '- <a href="https://github.com/KimWooHyun/WHLunarCalendar">https://github.com/KimWooHyun/WHLunarCalendar</a>', '- 한국 음력 달력 라이브러리', '- opensource']
-    // }],
+    "개인 프로젝트": [{
+      date: "2018.10 - 현재",
+      title: "awesome-web-styling",
+      contents: ["- Pure CSS Animation Effects", '- <a href="https://github.com/Dev-JeromeBaek/awesome-web-styling">https://github.com/Dev-JeromeBaek/awesome-web-styling</a>', "- 웹페이지에 사용하는 각각 부품들에 대한 Animation Effect 제공", "- Navigation, Text, Card, Spinner, Hamburger, etc", "- opensource"]
+    }, {
+      date: "2018.08",
+      title: "awesome-react-skeleton",
+      contents: ["- React, Redux library", '- <a href="https://github.com/Dev-JeromeBaek/awesome-react-basic-skeleton">https://github.com/Dev-JeromeBaek/awesome-react-basic-skeleton</a>', "- React 공부를 위한 시작 skeleton 프로젝트 제공", "- opensource"]
+    }],
 
     "개인 활동": [{
+      date: "2018.11",
+      title: "GDG DevFest Seoul 2018",
+      contents: ["GDG Tech [Festival]", "- 구글 기술과 관련된 세션, 코드랩, 스터디잼 구성", "- Android, Firebase, GCP, Machine Learning, Web Tech, Chrome 등 기술 소개", "- 기술 트랜드 공유"]
+    }, {
+      date: "2018.10",
+      title: "뻔뻔한 발표",
+      contents: ["Fun Fun Study", "- 함수형 프로그래밍이란?", "- 코틀린, ARCore, Tensorflow에서의 함수형 프로그래밍 짧은 이론 및 경험 공유"]
+    }, {
       date: "2018.06",
       title: "2018 오픈소스 개발자 이야기",
       contents: ["Microsoft [meetup]", "- 오픈소스개발자로서의 경험담 공유", '<a href="https://www.slideshare.net/inureyes/ss-104038275" target="_blank">- 회색지대: 이상과 현실 - 오픈소스 저작권(Lablup Inc./신정규님)</a>', '<a href="https://s3.ap-northeast-2.amazonaws.com/kr.elastic.co/docs/jongmin-kim-OSS-Dev-Forum.pdf" target="_blank">- Elastic에서 Remote로 일하기 (Elastic/김종민님)</a>', '<a href="https://lookaside.fbsbx.com/file/opensource-seminar-20180630.pdf?token=AWxNMD6qC0hgrZrZmQqugY3DM-6tJVQlZCC6aw7wYf-mN46sdvxPSVknRsdwTMPsakXdwMjt8NyV1HhAkx3kcOJNV-lhg2zxX3Cazhtq3_cBrKVKImjcvXxlWlXMk1a15zyCl_Q7L2nPYP4RLDRI1wfONn5mQMnAgilDWgqTBR2OfQ" target="_blank">- 오픈소스 생태계 일원으로서의 개발자 (BlockchainOS SRE/변정훈님)</a>', '<a href="https://docs.google.com/presentation/d/10Ab4gAGo7n3ip7q6PbXANT2W_vKabvUUnVUODqR0WN4/mobilepresent?slide=id.p" target="_blank">- 해외 오픈소스 컨퍼런스 발표와 참여 (KossLab/송태웅님)</a>', '<a href="https://www.slideshare.net/scarinet/python-pycon-and-the-psf-103838502" target="_blank">- 파이썬, 파이콘, 파이썬소프트웨어재단 (파이썬 소프트웨어 재단/김영근님)</a>', '<a href="https://lookaside.fbsbx.com/file/%EC%9D%B4%EB%AC%B8%EC%88%98_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf?token=AWwaEYKba0QIJYo_YCqmB2xt38rNifm2iDlZXGktfDldP26RbCcqz4Rg5hFgi9b5Wv2JcqGiYk_ADfh7RMHIrJi8uLII4A7quk2zJwXt8Cek09HxsDvjkMKc5v25uYoV9cuGu9o9bmABjzSIdpGgZbGTEXg0FzBBxhhhsteTfLNP5g" target="_blank">- 아파치 제플린, 프로젝트 시작부터 아파치 탑레벨 프로젝트가 되기까지(ZELP/이문수님)</a>']
